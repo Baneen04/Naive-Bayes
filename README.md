@@ -1,2 +1,2 @@
 # Naive-Bayes
-In my project, I have implemented the Naive Bayes algorithm to perform classification tasks based on probabilistic principles.
+In my project, I have implemented the Naive Bayes algorithm to perform classification tasks based on probabilistic principles.Utilizing Bayes' theorem, the algorithm calculates the probability of a data point belonging to a particular class, assuming feature independence. This approach enabled efficient and accurate classification by leveraging the simplicity of conditional probability, even with large datasets. The Naive Bayes classifier proved effective for handling various types of data and provided robust performance, making it a valuable tool for predictive modeling and pattern recognition in my project.
